@@ -4,3 +4,4 @@ bin/
 obj/
 .vs/
 node_modules/
+/k8s-specifications/voting-app-own-menifests/secrets.yml
